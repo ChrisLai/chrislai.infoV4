@@ -1,0 +1,14 @@
+{
+  "name": "chrislai.info",
+  "version": "0.0.1",
+  "description": "Fourth iteration of my personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Lai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
