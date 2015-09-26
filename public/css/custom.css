@@ -1,0 +1,47 @@
+#index-banner{
+    height: 100vh;
+}
+
+.darken-bg{
+    background-color: black;
+}
+
+.darken-bg img{
+    opacity: .3;
+}
+.darken-bg #landing_image {
+    opacity: .5;
+}
+
+.relative{
+    position: relative;
+}
+
+
+
+
+.icon-divider{
+    position: absolute;
+    top: -25px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    cursor: default;
+}
+
+.thin{
+    font-weight: 200;
+}
+
+.cream_background{
+    background-color: #f5f5f5;
+}
+
+.card-helper{
+    margin: 30px auto;
+}
+
+.i-am{
+    padding: 50px 0;
+}
